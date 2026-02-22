@@ -1,0 +1,4 @@
+ОС: Debian GNU/Linux 13 (trixie), g++, bash
+
+g++ test.cpp -L. -lmiptlib -o test_dynamic
+LD_LIBRARY_PATH=. ./test_dynamic

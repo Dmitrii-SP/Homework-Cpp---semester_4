@@ -1,0 +1,4 @@
+Debian GNU/Linux 13 (trixie), g++, bash
+
+g++ test.cpp -L. -lmiptlib -o test_static
+./test_static
