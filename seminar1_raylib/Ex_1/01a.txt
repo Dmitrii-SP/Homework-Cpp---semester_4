@@ -1,0 +1,4 @@
+Debian GNU/Linux 13 (trixie), g++, bash
+
+g++ -c algebra.cpp geometry.cpp statistics.cpp
+ar rcs libmiptlib.a algebra.o geometry.o statistics.o
