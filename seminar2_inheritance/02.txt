@@ -1,0 +1,8 @@
+1) Alice 20
+2) Error
+3) Alice 20
+4) Error
+5) Alice 40
+6) Alice 40
+7) Error
+8) Bob 40 50
